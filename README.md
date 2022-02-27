@@ -21,5 +21,6 @@ Create the Movie Database
 
 * ETL_create_database.ipynb
 
+Confirm that the movies table has 6,052 rows and the ratings table has 26,024,289 rows
 
 ![movies_query.png](https://github.com/LucyPill/Movies-ETL-Challenge/blob/main/Resources/movies_query.png):|:![ratings_query.png](https://github.com/LucyPill/Movies-ETL-Challenge/blob/main/Resources/ratings_query.png)
