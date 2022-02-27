@@ -20,3 +20,6 @@ Extract and Transform the Kaggle Data
 Create the Movie Database
 
 * ETL_create_database.ipynb
+
+
+![movies_query.png](https://github.com/LucyPill/Movies-ETL-Challenge/blob/main/Resources/movies_query.png)
